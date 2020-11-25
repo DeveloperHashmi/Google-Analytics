@@ -1,0 +1,31 @@
+Email ID :
+ga-vossle-api@zinc-reason-296212.iam.gserviceaccount.com
+
+MEASUREMENT ID :
+G-BH1B2Y947X
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BH1B2Y947X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BH1B2Y947X');
+</script>
+
+
+
+Universal Tag :
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XQHX3GT9MT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XQHX3GT9MT');
+</script>
+view id  : 233576869

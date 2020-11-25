@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zinc-reason-296212",
+  "private_key_id": "52ce75836e9c1a49221fc596de41c8f54654448e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCim30jfsQDNypK\nYT4Y4aLvvQ4utacHDCY8Fkgn8VjMiQo0vs3h1IqbfppqAexjHLenBQNP1Bz7HZPx\nzzTYDrlRJhdpJb1U/tt2I7yim2MyXPgtZib7fvHqGlyjdvD2DUPO8/+TG8bpqCnQ\n0Q+SewaoW2XsM5sdTS1zOqg55rW6NdcO6q7XWI/iE9sWrJ6JaIUqZs85yCxHWqnD\nbVmTQZu3H7xegIyf05Si7m/oBJzf04ES8E6gKFFgTtecd28MRNBavsAl/wZ8GWFC\nXC6lxFAUfPTkuH6N9zyomKxFqxnhbg6Yu3dLumk2NIcv2hU/uDR9vlpr64T21RY2\nxUmvGXmtAgMBAAECggEACzD1Y2CBoBEHZZgcvHynCKXz2G4jIT6KUR9ddvZK3MTf\nwXKSW+UTZxFHEl2whb+/ugyDxlY8amIGQSG4KtiUk4uyF8gDqFpkA1UBUhWstZYl\ndIZvz2ZUwv5uesegXObb0F4FrHvAbGto+ViyICw8cJDdymxg1BrwMlqKonWI81hO\nHv8RUT+OLiOZlRwFxFVmqK/VfjstyrtstBsgjtffb16ejl7cWdV5qLtyw1nwNmqI\nKV05JTPOH4gJ6s9JuAjzzF8V97C2DaPxpaTCoteeiCHxIneSRtJWMlIC+AIh2bGI\nWXG+085pbyOYb2GS3sdPz+dnE0cp/zqakrUbuPB0UQKBgQDabwZULhlnNGuLnFNR\nVyGtjFpUryYJaQ158tIVA+Nnm+8ugn+xeOWlVmf1FnEpcCya4oh4kXp03oKaFU9F\ncgcXyCcGGmrejOVHVvplK+Ld/fSF/clWlW39fM9jylXTvYH0Gkh2TweJkG/hD6gb\nFaWzVaH9oRVy7O+iI2KMEj5XyQKBgQC+kpmsWBeajJS3h2zcdTYgvjrlLue34zLa\n/Zh6OZWjiKQzGzwY5F0thUaSf1pSaYIlHAldT+xquDfTO1GQkZq51M5AHd9fc1xw\nU4HIIvGSVvs8geylH/m1aglJurIp+HtatxY4UlvoucXr90X4NvIXaDu//guaxWKy\noc5FDy6MxQKBgCH4QjO1N54lONRta0erFUG4IhQpaPDttXrRmHpMMIFcbsX85X7k\nHlKoLWKgKtkW6Njtgeu+NB0YvZbY2YsjQJciOW9pjFUv9Dgz/pzdRlrfs7di0Hz2\noDRbxKTwQoi7YApmS/6aK8HpBH0rwij0JODO4HJhKsTEtD+y4RCHhcqBAoGAcQ7H\n3Fbmqel80OSm0KM42XQBvLV3AsDnCsQoEVrYS4xk3Wzq2lmgbcEDfSXQj9PIQfvA\nEnu35hgkBkzKttmq0VROh/sw6Y+m53yjIfiZGBhCNENgARZXLikaGYOI7x1bERZN\nOFyj6g1MPhEUkY0HUpuj1uMAP3GafB9CH/ZBx4ECgYEA2bWC34B/c3zAdvhk2BNs\nkF3OKF4hmsSWs2ea0RhataDcOsyvpLMk9GbXp7v5R8FA6GeXxPLAL5qDueqqIYTJ\nggi1X25i7IAYMb2eTtuLEw4HeEIVJAY1MqBJ9+JNMq0fKH9Xai9LdglHJBvLl6zb\nOH7PcRvbYaQULN+SRTGGr+4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ga-vossle-api@zinc-reason-296212.iam.gserviceaccount.com",
+  "client_id": "108037703750063250229",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ga-vossle-api%40zinc-reason-296212.iam.gserviceaccount.com"
+}
