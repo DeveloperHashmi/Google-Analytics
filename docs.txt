@@ -1,17 +1,17 @@
 Email ID :
-ga-vossle-api@zinc-reason-296212.iam.gserviceaccount.com
+your_iam_account.iam.gserviceaccount.com
 
 MEASUREMENT ID :
-G-BH1B2Y947X
+G-your_ga_code
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BH1B2Y947X"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-your_ga_code"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-BH1B2Y947X');
+  gtag('config', 'G-your_ga_code');
 </script>
 
 
@@ -20,12 +20,12 @@ Universal Tag :
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XQHX3GT9MT"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-your_ga_code"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-XQHX3GT9MT');
+  gtag('config', 'G-your_ga_code');
 </script>
-view id  : 233576869
+view id  : your_view_id
